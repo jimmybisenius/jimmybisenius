@@ -1,1 +1,1 @@
-<img src="assets/Github-header.png"/>
+<img src="https://raw.githubusercontent.com/jimmybisenius/jimmybisenius/master/assets/Github-Header.png"/>
