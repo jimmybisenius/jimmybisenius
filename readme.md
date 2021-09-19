@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/jimmybisenius/jimmybisenius/master/assets/Github-Header.png"/>
+I used to run <a target="_blank" href="https://neutroncreative.com">Neutron-Creative</a> and build <a target="_blank" href="https://singlelink.co">open-source projects</a>. Now I spend time with family & ship stressfree 🛳 ✌️
