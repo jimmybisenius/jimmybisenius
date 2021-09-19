@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/jimmybisenius/jimmybisenius/master/assets/Github-Header.png"/>
+I used to run @Neutron-Creative. Now I spend time with family & ship stressfree 🛳
